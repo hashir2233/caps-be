@@ -1,0 +1,4562 @@
+[
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypeVar",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generic",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "SQLModel",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "JSON",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "SQLModel",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "JSON",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "SQLModel",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "JSON",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "SQLModel",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "JSON",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "SQLModel",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "SQLModel",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Body",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Security",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Body",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "AlertCreate",
+        "importPath": "apps.alerts.models",
+        "description": "apps.alerts.models",
+        "isExtraImport": true,
+        "detail": "apps.alerts.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlertUpdate",
+        "importPath": "apps.alerts.models",
+        "description": "apps.alerts.models",
+        "isExtraImport": true,
+        "detail": "apps.alerts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Alert",
+        "importPath": "apps.alerts.models",
+        "description": "apps.alerts.models",
+        "isExtraImport": true,
+        "detail": "apps.alerts.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlertCreate",
+        "importPath": "apps.alerts.models",
+        "description": "apps.alerts.models",
+        "isExtraImport": true,
+        "detail": "apps.alerts.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlertUpdate",
+        "importPath": "apps.alerts.models",
+        "description": "apps.alerts.models",
+        "isExtraImport": true,
+        "detail": "apps.alerts.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlertService",
+        "importPath": "apps.alerts.services",
+        "description": "apps.alerts.services",
+        "isExtraImport": true,
+        "detail": "apps.alerts.services",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "isExtraImport": true,
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "isExtraImport": true,
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserRead",
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "isExtraImport": true,
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "isExtraImport": true,
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "isExtraImport": true,
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "isExtraImport": true,
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "isExtraImport": true,
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "isExtraImport": true,
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "isExtraImport": true,
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "isExtraImport": true,
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdate",
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "isExtraImport": true,
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "isExtraImport": true,
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "isExtraImport": true,
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserRead",
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "isExtraImport": true,
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdate",
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "isExtraImport": true,
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "isExtraImport": true,
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "core.database",
+        "description": "core.database",
+        "isExtraImport": true,
+        "detail": "core.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "core.database",
+        "description": "core.database",
+        "isExtraImport": true,
+        "detail": "core.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "core.database",
+        "description": "core.database",
+        "isExtraImport": true,
+        "detail": "core.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "core.database",
+        "description": "core.database",
+        "isExtraImport": true,
+        "detail": "core.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "core.database",
+        "description": "core.database",
+        "isExtraImport": true,
+        "detail": "core.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "core.database",
+        "description": "core.database",
+        "isExtraImport": true,
+        "detail": "core.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "core.database",
+        "description": "core.database",
+        "isExtraImport": true,
+        "detail": "core.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "core.database",
+        "description": "core.database",
+        "isExtraImport": true,
+        "detail": "core.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "core.database",
+        "description": "core.database",
+        "isExtraImport": true,
+        "detail": "core.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "core.database",
+        "description": "core.database",
+        "isExtraImport": true,
+        "detail": "core.database",
+        "documentation": {}
+    },
+    {
+        "label": "create_db_and_tables",
+        "importPath": "core.database",
+        "description": "core.database",
+        "isExtraImport": true,
+        "detail": "core.database",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseModel",
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "isExtraImport": true,
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "paginate_response",
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "isExtraImport": true,
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "format_datetime",
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "isExtraImport": true,
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseModel",
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "isExtraImport": true,
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseModel",
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "isExtraImport": true,
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseModel",
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "isExtraImport": true,
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "paginate_response",
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "isExtraImport": true,
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "format_datetime",
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "isExtraImport": true,
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseModel",
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "isExtraImport": true,
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "paginate_response",
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "isExtraImport": true,
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "format_datetime",
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "isExtraImport": true,
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseModel",
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "isExtraImport": true,
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseModel",
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "isExtraImport": true,
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseModel",
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "isExtraImport": true,
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "ensure_uuid",
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "isExtraImport": true,
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "isExtraImport": true,
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "check_permissions",
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "isExtraImport": true,
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "isExtraImport": true,
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "isExtraImport": true,
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "check_permissions",
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "isExtraImport": true,
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "isExtraImport": true,
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "check_permissions",
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "isExtraImport": true,
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "isExtraImport": true,
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "check_permissions",
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "isExtraImport": true,
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "isExtraImport": true,
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "check_permissions",
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "isExtraImport": true,
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "isExtraImport": true,
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "check_permissions",
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "isExtraImport": true,
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "isExtraImport": true,
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "IncidentService",
+        "importPath": "apps.incidents.services",
+        "description": "apps.incidents.services",
+        "isExtraImport": true,
+        "detail": "apps.incidents.services",
+        "documentation": {}
+    },
+    {
+        "label": "IncidentService",
+        "importPath": "apps.incidents.services",
+        "description": "apps.incidents.services",
+        "isExtraImport": true,
+        "detail": "apps.incidents.services",
+        "documentation": {}
+    },
+    {
+        "label": "SchemaMismatchError",
+        "importPath": "apps.incidents.services",
+        "description": "apps.incidents.services",
+        "isExtraImport": true,
+        "detail": "apps.incidents.services",
+        "documentation": {}
+    },
+    {
+        "label": "IncidentService",
+        "importPath": "apps.incidents.services",
+        "description": "apps.incidents.services",
+        "isExtraImport": true,
+        "detail": "apps.incidents.services",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Incident",
+        "importPath": "apps.incidents.models",
+        "description": "apps.incidents.models",
+        "isExtraImport": true,
+        "detail": "apps.incidents.models",
+        "documentation": {}
+    },
+    {
+        "label": "IncidentCreate",
+        "importPath": "apps.incidents.models",
+        "description": "apps.incidents.models",
+        "isExtraImport": true,
+        "detail": "apps.incidents.models",
+        "documentation": {}
+    },
+    {
+        "label": "IncidentUpdate",
+        "importPath": "apps.incidents.models",
+        "description": "apps.incidents.models",
+        "isExtraImport": true,
+        "detail": "apps.incidents.models",
+        "documentation": {}
+    },
+    {
+        "label": "Incident",
+        "importPath": "apps.incidents.models",
+        "description": "apps.incidents.models",
+        "isExtraImport": true,
+        "detail": "apps.incidents.models",
+        "documentation": {}
+    },
+    {
+        "label": "IncidentCreate",
+        "importPath": "apps.incidents.models",
+        "description": "apps.incidents.models",
+        "isExtraImport": true,
+        "detail": "apps.incidents.models",
+        "documentation": {}
+    },
+    {
+        "label": "IncidentUpdate",
+        "importPath": "apps.incidents.models",
+        "description": "apps.incidents.models",
+        "isExtraImport": true,
+        "detail": "apps.incidents.models",
+        "documentation": {}
+    },
+    {
+        "label": "Incident",
+        "importPath": "apps.incidents.models",
+        "description": "apps.incidents.models",
+        "isExtraImport": true,
+        "detail": "apps.incidents.models",
+        "documentation": {}
+    },
+    {
+        "label": "Incident",
+        "importPath": "apps.incidents.models",
+        "description": "apps.incidents.models",
+        "isExtraImport": true,
+        "detail": "apps.incidents.models",
+        "documentation": {}
+    },
+    {
+        "label": "Incident",
+        "importPath": "apps.incidents.models",
+        "description": "apps.incidents.models",
+        "isExtraImport": true,
+        "detail": "apps.incidents.models",
+        "documentation": {}
+    },
+    {
+        "label": "Incident",
+        "importPath": "apps.incidents.models",
+        "description": "apps.incidents.models",
+        "isExtraImport": true,
+        "detail": "apps.incidents.models",
+        "documentation": {}
+    },
+    {
+        "label": "AnalyticsService",
+        "importPath": "core.rag.analytics_service",
+        "description": "core.rag.analytics_service",
+        "isExtraImport": true,
+        "detail": "core.rag.analytics_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_similar_incidents",
+        "importPath": "core.rag.incidents_vectorstore",
+        "description": "core.rag.incidents_vectorstore",
+        "isExtraImport": true,
+        "detail": "core.rag.incidents_vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "add_incident_to_vector_store",
+        "importPath": "core.rag.incidents_vectorstore",
+        "description": "core.rag.incidents_vectorstore",
+        "isExtraImport": true,
+        "detail": "core.rag.incidents_vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "update_incident_in_vector_store",
+        "importPath": "core.rag.incidents_vectorstore",
+        "description": "core.rag.incidents_vectorstore",
+        "isExtraImport": true,
+        "detail": "core.rag.incidents_vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "delete_incident_from_vector_store",
+        "importPath": "core.rag.incidents_vectorstore",
+        "description": "core.rag.incidents_vectorstore",
+        "isExtraImport": true,
+        "detail": "core.rag.incidents_vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "get_similar_incidents",
+        "importPath": "core.rag.incidents_vectorstore",
+        "description": "core.rag.incidents_vectorstore",
+        "isExtraImport": true,
+        "detail": "core.rag.incidents_vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "incident_to_document",
+        "importPath": "core.rag.incidents_vectorstore",
+        "description": "core.rag.incidents_vectorstore",
+        "isExtraImport": true,
+        "detail": "core.rag.incidents_vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "get_incident_vector_store",
+        "importPath": "core.rag.incidents_vectorstore",
+        "description": "core.rag.incidents_vectorstore",
+        "isExtraImport": true,
+        "detail": "core.rag.incidents_vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordRequestForm",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequest",
+        "importPath": "apps.auth.models",
+        "description": "apps.auth.models",
+        "isExtraImport": true,
+        "detail": "apps.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterRequest",
+        "importPath": "apps.auth.models",
+        "description": "apps.auth.models",
+        "isExtraImport": true,
+        "detail": "apps.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshTokenRequest",
+        "importPath": "apps.auth.models",
+        "description": "apps.auth.models",
+        "isExtraImport": true,
+        "detail": "apps.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "ResetPasswordRequest",
+        "importPath": "apps.auth.models",
+        "description": "apps.auth.models",
+        "isExtraImport": true,
+        "detail": "apps.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "TokenResponse",
+        "importPath": "apps.auth.models",
+        "description": "apps.auth.models",
+        "isExtraImport": true,
+        "detail": "apps.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AuthService",
+        "importPath": "apps.auth.services",
+        "description": "apps.auth.services",
+        "isExtraImport": true,
+        "detail": "apps.auth.services",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "core.config",
+        "description": "core.config",
+        "isExtraImport": true,
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "core.config",
+        "description": "core.config",
+        "isExtraImport": true,
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "core.config",
+        "description": "core.config",
+        "isExtraImport": true,
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "core.config",
+        "description": "core.config",
+        "isExtraImport": true,
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "send_email",
+        "importPath": "core.utils.email",
+        "description": "core.utils.email",
+        "isExtraImport": true,
+        "detail": "core.utils.email",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "OperationalError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "ReportCreate",
+        "importPath": "apps.reports.models",
+        "description": "apps.reports.models",
+        "isExtraImport": true,
+        "detail": "apps.reports.models",
+        "documentation": {}
+    },
+    {
+        "label": "ReportUpdate",
+        "importPath": "apps.reports.models",
+        "description": "apps.reports.models",
+        "isExtraImport": true,
+        "detail": "apps.reports.models",
+        "documentation": {}
+    },
+    {
+        "label": "Report",
+        "importPath": "apps.reports.models",
+        "description": "apps.reports.models",
+        "isExtraImport": true,
+        "detail": "apps.reports.models",
+        "documentation": {}
+    },
+    {
+        "label": "ReportCreate",
+        "importPath": "apps.reports.models",
+        "description": "apps.reports.models",
+        "isExtraImport": true,
+        "detail": "apps.reports.models",
+        "documentation": {}
+    },
+    {
+        "label": "ReportUpdate",
+        "importPath": "apps.reports.models",
+        "description": "apps.reports.models",
+        "isExtraImport": true,
+        "detail": "apps.reports.models",
+        "documentation": {}
+    },
+    {
+        "label": "ReportService",
+        "importPath": "apps.reports.services",
+        "description": "apps.reports.services",
+        "isExtraImport": true,
+        "detail": "apps.reports.services",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain.prompts",
+        "description": "langchain.prompts",
+        "isExtraImport": true,
+        "detail": "langchain.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "LLMChain",
+        "importPath": "langchain.chains",
+        "description": "langchain.chains",
+        "isExtraImport": true,
+        "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "importPath": "core.rag.llm",
+        "description": "core.rag.llm",
+        "isExtraImport": true,
+        "detail": "core.rag.llm",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "importPath": "core.rag.llm",
+        "description": "core.rag.llm",
+        "isExtraImport": true,
+        "detail": "core.rag.llm",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "importPath": "core.rag.llm",
+        "description": "core.rag.llm",
+        "isExtraImport": true,
+        "detail": "core.rag.llm",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "langchain_core.documents",
+        "description": "langchain_core.documents",
+        "isExtraImport": true,
+        "detail": "langchain_core.documents",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "langchain_core.documents",
+        "description": "langchain_core.documents",
+        "isExtraImport": true,
+        "detail": "langchain_core.documents",
+        "documentation": {}
+    },
+    {
+        "label": "VectorStore",
+        "importPath": "core.rag.vectore_store",
+        "description": "core.rag.vectore_store",
+        "isExtraImport": true,
+        "detail": "core.rag.vectore_store",
+        "documentation": {}
+    },
+    {
+        "label": "VectorStoreConfig",
+        "importPath": "core.rag.vectore_store",
+        "description": "core.rag.vectore_store",
+        "isExtraImport": true,
+        "detail": "core.rag.vectore_store",
+        "documentation": {}
+    },
+    {
+        "label": "get_vector_store",
+        "importPath": "core.rag.vectore_store",
+        "description": "core.rag.vectore_store",
+        "isExtraImport": true,
+        "detail": "core.rag.vectore_store",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleGenerativeAIEmbeddings",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "VectorStoreRetriever",
+        "importPath": "langchain_core.vectorstores",
+        "description": "langchain_core.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain_core.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "PGVector",
+        "importPath": "langchain_postgres.vectorstores",
+        "description": "langchain_postgres.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain_postgres.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "BaseHTTPMiddleware",
+        "importPath": "starlette.middleware.base",
+        "description": "starlette.middleware.base",
+        "isExtraImport": true,
+        "detail": "starlette.middleware.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseHTTPMiddleware",
+        "importPath": "starlette.middleware.base",
+        "description": "starlette.middleware.base",
+        "isExtraImport": true,
+        "detail": "starlette.middleware.base",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token",
+        "importPath": "app.utils.security",
+        "description": "app.utils.security",
+        "isExtraImport": true,
+        "detail": "app.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "seaborn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "seaborn",
+        "description": "seaborn",
+        "detail": "seaborn",
+        "documentation": {}
+    },
+    {
+        "label": "SentenceTransformer",
+        "importPath": "sentence_transformers",
+        "description": "sentence_transformers",
+        "isExtraImport": true,
+        "detail": "sentence_transformers",
+        "documentation": {}
+    },
+    {
+        "label": "SentenceTransformer",
+        "importPath": "sentence_transformers",
+        "description": "sentence_transformers",
+        "isExtraImport": true,
+        "detail": "sentence_transformers",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_preprocess_data",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "engineer_features",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "generate_embeddings",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "setup_chroma_db",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "generate_contextual_response",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_preprocess_data",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "engineer_features",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "generate_embeddings",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "setup_chroma_db",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "crime_rag_interface",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "setup_gemini",
+        "importPath": "gemini_integration",
+        "description": "gemini_integration",
+        "isExtraImport": true,
+        "detail": "gemini_integration",
+        "documentation": {}
+    },
+    {
+        "label": "setup_gemini",
+        "importPath": "gemini_integration",
+        "description": "gemini_integration",
+        "isExtraImport": true,
+        "detail": "gemini_integration",
+        "documentation": {}
+    },
+    {
+        "label": "generate_gemini_embeddings",
+        "importPath": "gemini_integration",
+        "description": "gemini_integration",
+        "isExtraImport": true,
+        "detail": "gemini_integration",
+        "documentation": {}
+    },
+    {
+        "label": "generate_gemini_response",
+        "importPath": "gemini_integration",
+        "description": "gemini_integration",
+        "isExtraImport": true,
+        "detail": "gemini_integration",
+        "documentation": {}
+    },
+    {
+        "label": "setup_gemini",
+        "importPath": "gemini_integration",
+        "description": "gemini_integration",
+        "isExtraImport": true,
+        "detail": "gemini_integration",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "apps.auth.routes",
+        "description": "apps.auth.routes",
+        "isExtraImport": true,
+        "detail": "apps.auth.routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "apps.users.routes",
+        "description": "apps.users.routes",
+        "isExtraImport": true,
+        "detail": "apps.users.routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "apps.incidents.routes",
+        "description": "apps.incidents.routes",
+        "isExtraImport": true,
+        "detail": "apps.incidents.routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "apps.reports.routes",
+        "description": "apps.reports.routes",
+        "isExtraImport": true,
+        "detail": "apps.reports.routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "apps.alerts.routes",
+        "description": "apps.alerts.routes",
+        "isExtraImport": true,
+        "detail": "apps.alerts.routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "apps.analytics.routes",
+        "description": "apps.analytics.routes",
+        "isExtraImport": true,
+        "detail": "apps.analytics.routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "apps.resources.routes",
+        "description": "apps.resources.routes",
+        "isExtraImport": true,
+        "detail": "apps.resources.routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "apps.settings.routes",
+        "description": "apps.settings.routes",
+        "isExtraImport": true,
+        "detail": "apps.settings.routes",
+        "documentation": {}
+    },
+    {
+        "label": "RateLimiter",
+        "importPath": "middlewares.rate_limiter",
+        "description": "middlewares.rate_limiter",
+        "isExtraImport": true,
+        "detail": "middlewares.rate_limiter",
+        "documentation": {}
+    },
+    {
+        "label": "google.generativeai",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "google.generativeai",
+        "description": "google.generativeai",
+        "detail": "google.generativeai",
+        "documentation": {}
+    },
+    {
+        "label": "chromadb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "chromadb",
+        "description": "chromadb",
+        "detail": "chromadb",
+        "documentation": {}
+    },
+    {
+        "label": "advanced_query_interface",
+        "importPath": "advanced_query",
+        "description": "advanced_query",
+        "isExtraImport": true,
+        "detail": "advanced_query",
+        "documentation": {}
+    },
+    {
+        "label": "stats",
+        "importPath": "scipy",
+        "description": "scipy",
+        "isExtraImport": true,
+        "detail": "scipy",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"crime-gpt\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"crime-gpt\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"crime-gpt\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"crime-gpt\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"crime-gpt\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "AlertLocation",
+        "kind": 6,
+        "importPath": "apps.alerts.models",
+        "description": "apps.alerts.models",
+        "peekOfCode": "class AlertLocation(BaseModel):\n    address: str\n    district: str\n    coordinates: List[float]\nclass AlertRelatedIncident(BaseModel):\n    id: UUID\n    title: str\n    type: str\n    date: str\nclass Alert(SQLModel, table=True):",
+        "detail": "apps.alerts.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlertRelatedIncident",
+        "kind": 6,
+        "importPath": "apps.alerts.models",
+        "description": "apps.alerts.models",
+        "peekOfCode": "class AlertRelatedIncident(BaseModel):\n    id: UUID\n    title: str\n    type: str\n    date: str\nclass Alert(SQLModel, table=True):\n    id: UUID = Field(primary_key=True)\n    title: str\n    description: Optional[str] = None\n    severity: str",
+        "detail": "apps.alerts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Alert",
+        "kind": 6,
+        "importPath": "apps.alerts.models",
+        "description": "apps.alerts.models",
+        "peekOfCode": "class Alert(SQLModel, table=True):\n    id: UUID = Field(primary_key=True)\n    title: str\n    description: Optional[str] = None\n    severity: str\n    location: Dict[str, Any] = Field(sa_type=JSON)  # Use JSON type for dict\n    timestamp: datetime\n    source: str\n    related_incidents: Optional[List[Dict[str, Any]]] = Field(default=None, sa_type=JSON)  # Use JSON type for list of dicts\n    recommendations: Optional[List[str]] = Field(default=None, sa_type=JSON)  # Use JSON type for list",
+        "detail": "apps.alerts.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlertCreate",
+        "kind": 6,
+        "importPath": "apps.alerts.models",
+        "description": "apps.alerts.models",
+        "peekOfCode": "class AlertCreate(BaseModel):\n    title: str\n    description: Optional[str] = None\n    severity: str\n    location: AlertLocation\n    related_incidents: Optional[List[str]] = None\n    recommendations: Optional[List[str]] = None\nclass AlertUpdate(BaseModel):\n    title: Optional[str] = None\n    description: Optional[str] = None",
+        "detail": "apps.alerts.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlertUpdate",
+        "kind": 6,
+        "importPath": "apps.alerts.models",
+        "description": "apps.alerts.models",
+        "peekOfCode": "class AlertUpdate(BaseModel):\n    title: Optional[str] = None\n    description: Optional[str] = None\n    severity: Optional[str] = None\n    reviewed: Optional[bool] = None\n    recommendations: Optional[List[str]] = None\nclass AlertRead(BaseModel):\n    id: UUID\n    title: str\n    description: Optional[str]",
+        "detail": "apps.alerts.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlertRead",
+        "kind": 6,
+        "importPath": "apps.alerts.models",
+        "description": "apps.alerts.models",
+        "peekOfCode": "class AlertRead(BaseModel):\n    id: UUID\n    title: str\n    description: Optional[str]\n    severity: str\n    location: Dict[str, Any]\n    timestamp: str\n    source: str\n    related_incidents: Optional[List[Dict[str, Any]]]\n    recommendations: Optional[List[str]]",
+        "detail": "apps.alerts.models",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "apps.alerts.routes",
+        "description": "apps.alerts.routes",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/\", response_model=dict)\nasync def list_alerts(\n    page: int = Query(1, ge=1),\n    limit: int = Query(20, ge=1, le=100),\n    severity: Optional[str] = None,\n    status: Optional[str] = None,\n    district: Optional[str] = None,\n    session: Session = Depends(get_session),\n    current_user: User = Depends(get_current_user)",
+        "detail": "apps.alerts.routes",
+        "documentation": {}
+    },
+    {
+        "label": "AlertService",
+        "kind": 6,
+        "importPath": "apps.alerts.services",
+        "description": "apps.alerts.services",
+        "peekOfCode": "class AlertService:\n    @staticmethod\n    def list_alerts(\n        session: Session,\n        page: int = 1,\n        limit: int = 20,\n        severity: Optional[str] = None,\n        status: Optional[str] = None,\n        district: Optional[str] = None\n    ) -> Dict[str, Any]:",
+        "detail": "apps.alerts.services",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "apps.analytics.routes",
+        "description": "apps.analytics.routes",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/crime-statistics\", response_model=dict)\nasync def get_crime_statistics(\n    start_date: str = Query(..., description=\"Start date for analysis period (YYYY-MM-DD)\"),\n    end_date: str = Query(..., description=\"End date for analysis period (YYYY-MM-DD)\"),\n    district: Optional[str] = None,\n    crime_type: Optional[str] = None,\n    group_by: str = Query(\"month\", description=\"Group results by (day, week, month, type, district)\"),\n    session: Session = Depends(get_session),\n    current_user: User = Depends(get_current_user)",
+        "detail": "apps.analytics.routes",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequest",
+        "kind": 6,
+        "importPath": "apps.auth.models",
+        "description": "apps.auth.models",
+        "peekOfCode": "class LoginRequest(BaseModel):\n    email: EmailStr\n    password: str\nclass TokenResponse(BaseModel):\n    access_token: str\n    token_type: str\n    refresh_token: str\n    user_id: UUID\n    role: str\nclass RegisterRequest(BaseModel):",
+        "detail": "apps.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "TokenResponse",
+        "kind": 6,
+        "importPath": "apps.auth.models",
+        "description": "apps.auth.models",
+        "peekOfCode": "class TokenResponse(BaseModel):\n    access_token: str\n    token_type: str\n    refresh_token: str\n    user_id: UUID\n    role: str\nclass RegisterRequest(BaseModel):\n    email: EmailStr\n    password: str\n    name: str",
+        "detail": "apps.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterRequest",
+        "kind": 6,
+        "importPath": "apps.auth.models",
+        "description": "apps.auth.models",
+        "peekOfCode": "class RegisterRequest(BaseModel):\n    email: EmailStr\n    password: str\n    name: str\n    role: str\n    @validator('password')\n    def password_strength(cls, v):\n        # Simple validation - in a real app you'd want more comprehensive checks\n        if len(v) < 8:\n            raise ValueError(\"Password must be at least 8 characters\")",
+        "detail": "apps.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshTokenRequest",
+        "kind": 6,
+        "importPath": "apps.auth.models",
+        "description": "apps.auth.models",
+        "peekOfCode": "class RefreshTokenRequest(BaseModel):\n    refresh_token: str\nclass ResetPasswordRequest(BaseModel):\n    email: EmailStr\nclass ResetPasswordConfirmRequest(BaseModel):\n    token: str\n    new_password: str\n    @validator('new_password')\n    def password_strength(cls, v):\n        if len(v) < 8:",
+        "detail": "apps.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "ResetPasswordRequest",
+        "kind": 6,
+        "importPath": "apps.auth.models",
+        "description": "apps.auth.models",
+        "peekOfCode": "class ResetPasswordRequest(BaseModel):\n    email: EmailStr\nclass ResetPasswordConfirmRequest(BaseModel):\n    token: str\n    new_password: str\n    @validator('new_password')\n    def password_strength(cls, v):\n        if len(v) < 8:\n            raise ValueError(\"Password must be at least 8 characters\")\n        return v",
+        "detail": "apps.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "ResetPasswordConfirmRequest",
+        "kind": 6,
+        "importPath": "apps.auth.models",
+        "description": "apps.auth.models",
+        "peekOfCode": "class ResetPasswordConfirmRequest(BaseModel):\n    token: str\n    new_password: str\n    @validator('new_password')\n    def password_strength(cls, v):\n        if len(v) < 8:\n            raise ValueError(\"Password must be at least 8 characters\")\n        return v",
+        "detail": "apps.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "apps.auth.routes",
+        "description": "apps.auth.routes",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/login\", response_model=dict)\nasync def login(\n    request: LoginRequest,\n    session: Session = Depends(get_session)\n):\n    \"\"\"Login with email and password\"\"\"\n    try:\n        user, token, refresh_token = AuthService.authenticate_user(\n            session=session,",
+        "detail": "apps.auth.routes",
+        "documentation": {}
+    },
+    {
+        "label": "AuthService",
+        "kind": 6,
+        "importPath": "apps.auth.services",
+        "description": "apps.auth.services",
+        "peekOfCode": "class AuthService:\n    pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\n    @classmethod\n    def get_password_hash(cls, password: str) -> str:\n        \"\"\"Generate password hash\"\"\"\n        return cls.pwd_context.hash(password)\n    @classmethod\n    def verify_password(cls, plain_password: str, hashed_password: str) -> bool:\n        \"\"\"Verify password against hash\"\"\"\n        return cls.pwd_context.verify(plain_password, hashed_password)",
+        "detail": "apps.auth.services",
+        "documentation": {}
+    },
+    {
+        "label": "Location",
+        "kind": 6,
+        "importPath": "apps.incidents.models",
+        "description": "apps.incidents.models",
+        "peekOfCode": "class Location(BaseModel):\n    address: str\n    city: Optional[str] = None\n    zip_code: Optional[str] = None\n    district: str\n    location_type: Optional[str] = None\n    coordinates: List[float]\n    neighborhood: Optional[str] = None\n    lighting: Optional[str] = None\n    population_density: Optional[float] = None",
+        "detail": "apps.incidents.models",
+        "documentation": {}
+    },
+    {
+        "label": "EnvironmentalFactors",
+        "kind": 6,
+        "importPath": "apps.incidents.models",
+        "description": "apps.incidents.models",
+        "peekOfCode": "class EnvironmentalFactors(BaseModel):\n    weather: Optional[str] = None \n    temperature: Optional[float] = None\n    visibility: Optional[str] = None\n    time_of_day: Optional[str] = None\n    day_of_week: Optional[str] = None\n    is_holiday: Optional[bool] = False\n    is_weekend: Optional[bool] = None\n    precipitation: Optional[float] = None \nclass SocioeconomicFactors(BaseModel):",
+        "detail": "apps.incidents.models",
+        "documentation": {}
+    },
+    {
+        "label": "SocioeconomicFactors",
+        "kind": 6,
+        "importPath": "apps.incidents.models",
+        "description": "apps.incidents.models",
+        "peekOfCode": "class SocioeconomicFactors(BaseModel):\n    poverty_rate: Optional[float] = None \n    education_level: Optional[str] = None\n    housing_density: Optional[float] = None\n    public_transport_access: Optional[str] = None\n    police_presence: Optional[str] = None\n    nearby_facilities: Optional[List[str]] = None\n    crime_history: Optional[float] = None \nclass Flag(BaseModel):\n    repeat_offender: Optional[bool] = False",
+        "detail": "apps.incidents.models",
+        "documentation": {}
+    },
+    {
+        "label": "Flag",
+        "kind": 6,
+        "importPath": "apps.incidents.models",
+        "description": "apps.incidents.models",
+        "peekOfCode": "class Flag(BaseModel):\n    repeat_offender: Optional[bool] = False\n    related_cases: Optional[bool] = False\n    requires_followup: Optional[bool] = False\n    involves_minor: Optional[bool] = False\n    gang_related: Optional[bool] = False\n    domestic_violence: Optional[bool] = False\nclass Incident(SQLModel, table=True):\n    id: UUID = SQLField(primary_key=True)\n    title: str",
+        "detail": "apps.incidents.models",
+        "documentation": {}
+    },
+    {
+        "label": "Incident",
+        "kind": 6,
+        "importPath": "apps.incidents.models",
+        "description": "apps.incidents.models",
+        "peekOfCode": "class Incident(SQLModel, table=True):\n    id: UUID = SQLField(primary_key=True)\n    title: str\n    description: Optional[str] = None\n    type: str\n    date: datetime\n    location: Dict[str, Any] = SQLField(sa_type=JSON)\n    severity: str\n    status: str\n    reporting_officer: Optional[str] = None",
+        "detail": "apps.incidents.models",
+        "documentation": {}
+    },
+    {
+        "label": "IncidentCreate",
+        "kind": 6,
+        "importPath": "apps.incidents.models",
+        "description": "apps.incidents.models",
+        "peekOfCode": "class IncidentCreate(BaseModel):\n    title: str\n    description: Optional[str] = None\n    type: str\n    date: str\n    location: Location\n    severity: str\n    status: str = \"open\"\n    reporting_officer: Optional[str] = None\n    notes: Optional[str] = None",
+        "detail": "apps.incidents.models",
+        "documentation": {}
+    },
+    {
+        "label": "IncidentUpdate",
+        "kind": 6,
+        "importPath": "apps.incidents.models",
+        "description": "apps.incidents.models",
+        "peekOfCode": "class IncidentUpdate(BaseModel):\n    title: Optional[str] = None\n    description: Optional[str] = None\n    type: Optional[str] = None\n    date: Optional[str] = None\n    location: Optional[Location] = None\n    severity: Optional[str] = None\n    status: Optional[str] = None\n    reporting_officer: Optional[str] = None\n    notes: Optional[str] = None",
+        "detail": "apps.incidents.models",
+        "documentation": {}
+    },
+    {
+        "label": "IncidentRead",
+        "kind": 6,
+        "importPath": "apps.incidents.models",
+        "description": "apps.incidents.models",
+        "peekOfCode": "class IncidentRead(BaseModel):\n    id: UUID\n    title: str\n    description: Optional[str]\n    type: str\n    date: str\n    location: Dict[str, Any]\n    severity: str\n    status: str\n    reporting_officer: Optional[Dict[str, Any]]",
+        "detail": "apps.incidents.models",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "apps.incidents.routes",
+        "description": "apps.incidents.routes",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nrouter = APIRouter()\n@router.get(\"/\", response_model=dict)\nasync def list_incidents(\n    page: int = Query(1, ge=1),\n    limit: int = Query(20, ge=1, le=100),\n    type: Optional[str] = None,\n    district: Optional[str] = None,\n    start_date: Optional[str] = None,\n    end_date: Optional[str] = None,",
+        "detail": "apps.incidents.routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "apps.incidents.routes",
+        "description": "apps.incidents.routes",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/\", response_model=dict)\nasync def list_incidents(\n    page: int = Query(1, ge=1),\n    limit: int = Query(20, ge=1, le=100),\n    type: Optional[str] = None,\n    district: Optional[str] = None,\n    start_date: Optional[str] = None,\n    end_date: Optional[str] = None,\n    severity: Optional[str] = None,",
+        "detail": "apps.incidents.routes",
+        "documentation": {}
+    },
+    {
+        "label": "SchemaMismatchError",
+        "kind": 6,
+        "importPath": "apps.incidents.services",
+        "description": "apps.incidents.services",
+        "peekOfCode": "class SchemaMismatchError(Exception):\n    \"\"\"Raised when database schema doesn't match the models\"\"\"\n    pass\nclass IncidentService:\n    @staticmethod\n    def list_incidents(\n        session: Session,\n        page: int = 1,\n        limit: int = 20,\n        type: Optional[str] = None,",
+        "detail": "apps.incidents.services",
+        "documentation": {}
+    },
+    {
+        "label": "IncidentService",
+        "kind": 6,
+        "importPath": "apps.incidents.services",
+        "description": "apps.incidents.services",
+        "peekOfCode": "class IncidentService:\n    @staticmethod\n    def list_incidents(\n        session: Session,\n        page: int = 1,\n        limit: int = 20,\n        type: Optional[str] = None,\n        district: Optional[str] = None,\n        start_date: Optional[str] = None,\n        end_date: Optional[str] = None,",
+        "detail": "apps.incidents.services",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "apps.incidents.services",
+        "description": "apps.incidents.services",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# Define a custom exception for schema mismatch\nclass SchemaMismatchError(Exception):\n    \"\"\"Raised when database schema doesn't match the models\"\"\"\n    pass\nclass IncidentService:\n    @staticmethod\n    def list_incidents(\n        session: Session,\n        page: int = 1,",
+        "detail": "apps.incidents.services",
+        "documentation": {}
+    },
+    {
+        "label": "DateRange",
+        "kind": 6,
+        "importPath": "apps.reports.models",
+        "description": "apps.reports.models",
+        "peekOfCode": "class DateRange(BaseModel):\n    start: str\n    end: str\nclass ReportParameters(BaseModel):\n    crime_types: Optional[List[str]] = None\n    include_charts: Optional[bool] = True\n    include_recommendations: Optional[bool] = True\n    compare_with_previous: Optional[bool] = False\nclass Report(SQLModel, table=True):\n    id: UUID = Field(primary_key=True)",
+        "detail": "apps.reports.models",
+        "documentation": {}
+    },
+    {
+        "label": "ReportParameters",
+        "kind": 6,
+        "importPath": "apps.reports.models",
+        "description": "apps.reports.models",
+        "peekOfCode": "class ReportParameters(BaseModel):\n    crime_types: Optional[List[str]] = None\n    include_charts: Optional[bool] = True\n    include_recommendations: Optional[bool] = True\n    compare_with_previous: Optional[bool] = False\nclass Report(SQLModel, table=True):\n    id: UUID = Field(primary_key=True)\n    title: str\n    description: Optional[str] = None\n    type: str",
+        "detail": "apps.reports.models",
+        "documentation": {}
+    },
+    {
+        "label": "Report",
+        "kind": 6,
+        "importPath": "apps.reports.models",
+        "description": "apps.reports.models",
+        "peekOfCode": "class Report(SQLModel, table=True):\n    id: UUID = Field(primary_key=True)\n    title: str\n    description: Optional[str] = None\n    type: str\n    district: str\n    date_range: Dict[str, Any] = Field(sa_type=JSON)  # Use JSON type for dict\n    content: Optional[Dict[str, Any]] = Field(default=None, sa_type=JSON)  # Use JSON type for dict\n    parameters: Optional[Dict[str, Any]] = Field(default=None, sa_type=JSON)  # Use JSON type for dict\n    status: str",
+        "detail": "apps.reports.models",
+        "documentation": {}
+    },
+    {
+        "label": "ReportCreate",
+        "kind": 6,
+        "importPath": "apps.reports.models",
+        "description": "apps.reports.models",
+        "peekOfCode": "class ReportCreate(BaseModel):\n    title: str\n    description: Optional[str] = None\n    type: str\n    district: str\n    date_range: DateRange\n    parameters: Optional[ReportParameters] = None\nclass ReportUpdate(BaseModel):\n    title: Optional[str] = None\n    description: Optional[str] = None",
+        "detail": "apps.reports.models",
+        "documentation": {}
+    },
+    {
+        "label": "ReportUpdate",
+        "kind": 6,
+        "importPath": "apps.reports.models",
+        "description": "apps.reports.models",
+        "peekOfCode": "class ReportUpdate(BaseModel):\n    title: Optional[str] = None\n    description: Optional[str] = None\n    parameters: Optional[Dict[str, Any]] = None\nclass ReportRead(BaseModel):\n    id: UUID\n    title: str\n    description: Optional[str]\n    type: str\n    district: str",
+        "detail": "apps.reports.models",
+        "documentation": {}
+    },
+    {
+        "label": "ReportRead",
+        "kind": 6,
+        "importPath": "apps.reports.models",
+        "description": "apps.reports.models",
+        "peekOfCode": "class ReportRead(BaseModel):\n    id: UUID\n    title: str\n    description: Optional[str]\n    type: str\n    district: str\n    date_range: Dict[str, str]\n    content: Optional[Dict[str, Any]]\n    status: str\n    created_by: Dict[str, str]",
+        "detail": "apps.reports.models",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "apps.reports.routes",
+        "description": "apps.reports.routes",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/\", response_model=dict)\nasync def list_reports(\n    page: int = Query(1, ge=1),\n    limit: int = Query(20, ge=1, le=100),\n    type: Optional[str] = None,\n    district: Optional[str] = None,\n    start_date: Optional[str] = None,\n    end_date: Optional[str] = None,\n    session: Session = Depends(get_session),",
+        "detail": "apps.reports.routes",
+        "documentation": {}
+    },
+    {
+        "label": "ReportService",
+        "kind": 6,
+        "importPath": "apps.reports.services",
+        "description": "apps.reports.services",
+        "peekOfCode": "class ReportService:\n    @staticmethod\n    def list_reports(\n        session: Session,\n        page: int = 1,\n        limit: int = 20,\n        type: Optional[str] = None,\n        district: Optional[str] = None,\n        start_date: Optional[str] = None,\n        end_date: Optional[str] = None",
+        "detail": "apps.reports.services",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "apps.resources.routes",
+        "description": "apps.resources.routes",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/allocation\", response_model=dict)\nasync def get_resource_allocation(\n    district: Optional[str] = None,\n    resource_type: Optional[str] = None,\n    session: Session = Depends(get_session),\n    current_user: User = Depends(get_current_user)\n):\n    \"\"\"Get current resource allocation data\"\"\"\n    try:",
+        "detail": "apps.resources.routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "apps.settings.routes",
+        "description": "apps.settings.routes",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/system\", response_model=dict)\nasync def get_system_settings(\n    session: Session = Depends(get_session),\n    _: User = Depends(check_permissions([\"view_system_settings\"]))\n):\n    \"\"\"Get system settings\"\"\"\n    # In a real application, we'd fetch this from the database\n    # For now, we'll return mock data\n    return ResponseModel.success(",
+        "detail": "apps.settings.routes",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "peekOfCode": "class User(SQLModel, table=True):\n    \"\"\"User model\"\"\"\n    id: UUID = Field(primary_key=True)\n    name: str\n    email: str = Field(unique=True, index=True)\n    hashed_password: str\n    role: str\n    district: Optional[str] = None\n    department: Optional[str] = None\n    phone: Optional[str] = None",
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "peekOfCode": "class UserCreate(BaseModel):\n    \"\"\"User create schema\"\"\"\n    name: str\n    email: EmailStr\n    password: str\n    role: str\n    district: Optional[str] = None\n    department: Optional[str] = None\n    phone: Optional[str] = None\n    badge_number: Optional[str] = None",
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdate",
+        "kind": 6,
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "peekOfCode": "class UserUpdate(SQLModel):\n    \"\"\"User update schema\"\"\"\n    name: Optional[str] = None\n    email: Optional[EmailStr] = None\n    district: Optional[str] = None\n    department: Optional[str] = None\n    phone: Optional[str] = None\n    badge_number: Optional[str] = None\n    permissions: Optional[Dict[str, Any]] = None  # Changed from List to Dict\n    role: Optional[str] = None",
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserRead",
+        "kind": 6,
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "peekOfCode": "class UserRead(BaseModel):\n    \"\"\"User read schema\"\"\"\n    id: UUID\n    name: str\n    email: str\n    role: str\n    district: Optional[str] = None\n    department: Optional[str] = None\n    phone: Optional[str] = None\n    badge_number: Optional[str] = None",
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "apps.users.routes",
+        "description": "apps.users.routes",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/\", response_model=dict)\nasync def list_users(\n    page: int = Query(1, ge=1),\n    limit: int = Query(20, ge=1, le=100),\n    role: Optional[str] = None,\n    district: Optional[str] = None,\n    session: Session = Depends(get_session),\n    _: User = Depends(check_permissions([\"view_users\"]))\n):",
+        "detail": "apps.users.routes",
+        "documentation": {}
+    },
+    {
+        "label": "UserService",
+        "kind": 6,
+        "importPath": "apps.users.services",
+        "description": "apps.users.services",
+        "peekOfCode": "class UserService:\n    \"\"\"Service for user-related operations\"\"\"\n    @staticmethod\n    def get_users(\n        session: Session, \n        page: int = 1, \n        limit: int = 20,\n        role: Optional[str] = None,\n        district: Optional[str] = None\n    ) -> Tuple[List[UserRead], int]:",
+        "detail": "apps.users.services",
+        "documentation": {}
+    },
+    {
+        "label": "UUIDEncoder",
+        "kind": 6,
+        "importPath": "core.rag.analytics_service",
+        "description": "core.rag.analytics_service",
+        "peekOfCode": "class UUIDEncoder(json.JSONEncoder):\n    def default(self, obj):\n        if isinstance(obj, UUID):\n            # Convert UUID to string\n            return str(obj)\n        if isinstance(obj, datetime):\n            # Convert datetime to ISO format string\n            return obj.isoformat()\n        # Let the base class default method handle other types\n        return super().default(obj)",
+        "detail": "core.rag.analytics_service",
+        "documentation": {}
+    },
+    {
+        "label": "AnalyticsService",
+        "kind": 6,
+        "importPath": "core.rag.analytics_service",
+        "description": "core.rag.analytics_service",
+        "peekOfCode": "class AnalyticsService:\n    @staticmethod\n    def generate_predictive_analysis(\n        session: Session,\n        days_ahead: int,\n        crime_type: Optional[str] = None,\n        district: Optional[str] = None,\n        confidence_threshold: int = 70\n    ) -> Dict[str, Any]:\n        \"\"\"Generate predictive crime analysis using LLM and RAG\"\"\"",
+        "detail": "core.rag.analytics_service",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "core.rag.analytics_service",
+        "description": "core.rag.analytics_service",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# Custom JSON encoder to handle UUID serialization\nclass UUIDEncoder(json.JSONEncoder):\n    def default(self, obj):\n        if isinstance(obj, UUID):\n            # Convert UUID to string\n            return str(obj)\n        if isinstance(obj, datetime):\n            # Convert datetime to ISO format string\n            return obj.isoformat()",
+        "detail": "core.rag.analytics_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_incident_vector_store",
+        "kind": 2,
+        "importPath": "core.rag.incidents_vectorstore",
+        "description": "core.rag.incidents_vectorstore",
+        "peekOfCode": "def get_incident_vector_store():\n    \"\"\"Get a dedicated vector store instance for incidents\"\"\"\n    global _incident_vector_store\n    if _incident_vector_store is None:\n        # Create a specific config for incidents\n        config = VectorStoreConfig(\n            collection_name=\"incidents\",\n            embedding_model=\"models/text-embedding-004\",\n            embedding_dimensions=768,\n        )",
+        "detail": "core.rag.incidents_vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "incident_to_document",
+        "kind": 2,
+        "importPath": "core.rag.incidents_vectorstore",
+        "description": "core.rag.incidents_vectorstore",
+        "peekOfCode": "def incident_to_document(incident: Incident) -> Document:\n    \"\"\"Convert an incident to a document that can be embedded.\"\"\"\n    # Serialize incident data to a string, including all relevant fields for RAG\n    # Format date for consistent serialization\n    date_str = incident.date.isoformat() if isinstance(incident.date, datetime) else str(incident.date)\n    # Generate a concise text representation of the incident\n    content = f\"\"\"\n    Incident ID: {incident.id}\n    Title: {incident.title}\n    Type: {incident.type}",
+        "detail": "core.rag.incidents_vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "add_incident_to_vector_store",
+        "kind": 2,
+        "importPath": "core.rag.incidents_vectorstore",
+        "description": "core.rag.incidents_vectorstore",
+        "peekOfCode": "def add_incident_to_vector_store(incident: Incident) -> None:\n    \"\"\"Add incident to vector store.\"\"\"\n    try:\n        vector_store = get_incident_vector_store()\n        document = incident_to_document(incident)\n        vector_store.add_documents([document])\n        logger.info(f\"Added incident {incident.id} to vector store\")\n    except Exception as e:\n        logger.error(f\"Error adding incident {incident.id} to vector store: {e}\")\n        import traceback",
+        "detail": "core.rag.incidents_vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "update_incident_in_vector_store",
+        "kind": 2,
+        "importPath": "core.rag.incidents_vectorstore",
+        "description": "core.rag.incidents_vectorstore",
+        "peekOfCode": "def update_incident_in_vector_store(incident: Incident) -> None:\n    \"\"\"Update incident in vector store by deleting and re-adding.\"\"\"\n    try:\n        vector_store = get_incident_vector_store()\n        # Delete the existing document\n        vector_store.delete(filter={\"id\": str(incident.id)})\n        # Add the updated document\n        document = incident_to_document(incident)\n        vector_store.add_documents([document])\n        logger.info(f\"Updated incident {incident.id} in vector store\")",
+        "detail": "core.rag.incidents_vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "delete_incident_from_vector_store",
+        "kind": 2,
+        "importPath": "core.rag.incidents_vectorstore",
+        "description": "core.rag.incidents_vectorstore",
+        "peekOfCode": "def delete_incident_from_vector_store(incident_id: UUID) -> None:\n    \"\"\"Remove incident from vector store.\"\"\"\n    try:\n        vector_store = get_incident_vector_store()\n        vector_store.delete(filter={\"id\": str(incident_id)})\n        logger.info(f\"Deleted incident {incident_id} from vector store\")\n    except Exception as e:\n        logger.error(f\"Error deleting incident {incident_id} from vector store: {e}\")\n        import traceback\n        logger.error(traceback.format_exc())",
+        "detail": "core.rag.incidents_vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "get_similar_incidents",
+        "kind": 2,
+        "importPath": "core.rag.incidents_vectorstore",
+        "description": "core.rag.incidents_vectorstore",
+        "peekOfCode": "def get_similar_incidents(query: str, filters: Dict[str, Any] = None, k: int = 5) -> List[Dict]:\n    \"\"\"Get similar incidents based on a query and optional filters.\"\"\"\n    try:\n        vector_store = get_incident_vector_store()\n        # Convert filters to the format expected by the vector store\n        search_filter = {}\n        if filters:\n            search_filter = filters\n        # Perform similarity search\n        documents = vector_store.similarity_search(query, k=k, filter=search_filter)",
+        "detail": "core.rag.incidents_vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "core.rag.incidents_vectorstore",
+        "description": "core.rag.incidents_vectorstore",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# Store vector store instance\n_incident_vector_store = None\ndef get_incident_vector_store():\n    \"\"\"Get a dedicated vector store instance for incidents\"\"\"\n    global _incident_vector_store\n    if _incident_vector_store is None:\n        # Create a specific config for incidents\n        config = VectorStoreConfig(\n            collection_name=\"incidents\",",
+        "detail": "core.rag.incidents_vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "_incident_vector_store",
+        "kind": 5,
+        "importPath": "core.rag.incidents_vectorstore",
+        "description": "core.rag.incidents_vectorstore",
+        "peekOfCode": "_incident_vector_store = None\ndef get_incident_vector_store():\n    \"\"\"Get a dedicated vector store instance for incidents\"\"\"\n    global _incident_vector_store\n    if _incident_vector_store is None:\n        # Create a specific config for incidents\n        config = VectorStoreConfig(\n            collection_name=\"incidents\",\n            embedding_model=\"models/text-embedding-004\",\n            embedding_dimensions=768,",
+        "detail": "core.rag.incidents_vectorstore",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "core.rag.llm",
+        "description": "core.rag.llm",
+        "peekOfCode": "llm = ChatGoogleGenerativeAI(model=\"gemini-1.5-pro\",\n                 temperature=0.7, top_p=0.85)",
+        "detail": "core.rag.llm",
+        "documentation": {}
+    },
+    {
+        "label": "VectorStoreConfig",
+        "kind": 6,
+        "importPath": "core.rag.vectore_store",
+        "description": "core.rag.vectore_store",
+        "peekOfCode": "class VectorStoreConfig:\n    \"\"\"Configuration class for VectorStore settings\"\"\"\n    def __init__(\n        self,\n        collection_name: str = \"caps_docs\",\n        embedding_model: str = \"models/text-embedding-004\",\n        embedding_dimensions: int = 768,\n        use_jsonb: bool = True,\n        task_type_query: str = \"retrieval_query\",\n        task_type_document: str = \"retrieval_document\",",
+        "detail": "core.rag.vectore_store",
+        "documentation": {}
+    },
+    {
+        "label": "VectorStore",
+        "kind": 6,
+        "importPath": "core.rag.vectore_store",
+        "description": "core.rag.vectore_store",
+        "peekOfCode": "class VectorStore:\n    \"\"\"Class for managing vector database operations\"\"\"\n    def __init__(self, config: Optional[VectorStoreConfig] = None):\n        \"\"\"\n        Initialize the VectorStore.\n        Args:\n            config: Configuration for the vector store (optional)\n        \"\"\"\n        self.config = config or VectorStoreConfig()\n        self._query_embeddings = None",
+        "detail": "core.rag.vectore_store",
+        "documentation": {}
+    },
+    {
+        "label": "get_vector_store",
+        "kind": 2,
+        "importPath": "core.rag.vectore_store",
+        "description": "core.rag.vectore_store",
+        "peekOfCode": "def get_vector_store(config: Optional[VectorStoreConfig] = None) -> VectorStore:\n    \"\"\"\n    Factory function to create or get a vector store instance.\n    Args:\n        config: Optional custom configuration\n    Returns:\n        VectorStore instance\n    \"\"\"\n    global default_vector_store\n    if default_vector_store is None:",
+        "detail": "core.rag.vectore_store",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "core.rag.vectore_store",
+        "description": "core.rag.vectore_store",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass VectorStoreConfig:\n    \"\"\"Configuration class for VectorStore settings\"\"\"\n    def __init__(\n        self,\n        collection_name: str = \"caps_docs\",\n        embedding_model: str = \"models/text-embedding-004\",\n        embedding_dimensions: int = 768,\n        use_jsonb: bool = True,\n        task_type_query: str = \"retrieval_query\",",
+        "detail": "core.rag.vectore_store",
+        "documentation": {}
+    },
+    {
+        "label": "default_vector_store",
+        "kind": 5,
+        "importPath": "core.rag.vectore_store",
+        "description": "core.rag.vectore_store",
+        "peekOfCode": "default_vector_store = None\ndef get_vector_store(config: Optional[VectorStoreConfig] = None) -> VectorStore:\n    \"\"\"\n    Factory function to create or get a vector store instance.\n    Args:\n        config: Optional custom configuration\n    Returns:\n        VectorStore instance\n    \"\"\"\n    global default_vector_store",
+        "detail": "core.rag.vectore_store",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseModel",
+        "kind": 6,
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "peekOfCode": "class ResponseModel(Generic[T]):\n    \"\"\"Standard response model for API endpoints\"\"\"\n    @staticmethod\n    def success(data: Optional[Dict[str, Any]] = None, message: Optional[str] = None) -> Dict[str, Any]:\n        \"\"\"Standard success response\"\"\"\n        response = {\"success\": True}\n        if data:\n            response[\"data\"] = data\n        if message:\n            response[\"message\"] = message",
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "format_datetime",
+        "kind": 2,
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "peekOfCode": "def format_datetime(dt: datetime) -> str:\n    \"\"\"Format datetime to ISO 8601 format\"\"\"\n    if not dt:\n        return None\n    return dt.isoformat()\ndef format_date(d: date) -> str:\n    \"\"\"Format date to ISO 8601 format\"\"\"\n    if not d:\n        return None\n    return d.isoformat()",
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "format_date",
+        "kind": 2,
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "peekOfCode": "def format_date(d: date) -> str:\n    \"\"\"Format date to ISO 8601 format\"\"\"\n    if not d:\n        return None\n    return d.isoformat()\ndef paginate_response(\n    items: List[Any], \n    page: int, \n    limit: int, \n    total: int",
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "paginate_response",
+        "kind": 2,
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "peekOfCode": "def paginate_response(\n    items: List[Any], \n    page: int, \n    limit: int, \n    total: int\n) -> Dict[str, Any]:\n    \"\"\"Create a paginated response\"\"\"\n    return {\n        \"items\": items,\n        \"pagination\": {",
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "ensure_uuid",
+        "kind": 2,
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "peekOfCode": "def ensure_uuid(uuid_value):\n    \"\"\"\n    Ensure a value is a UUID object\n    Args:\n        uuid_value: String or UUID object\n    Returns:\n        UUID object\n    \"\"\"\n    if isinstance(uuid_value, str):\n        return UUID(uuid_value)",
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "T",
+        "kind": 5,
+        "importPath": "core.utils.common",
+        "description": "core.utils.common",
+        "peekOfCode": "T = TypeVar('T')\nclass ResponseModel(Generic[T]):\n    \"\"\"Standard response model for API endpoints\"\"\"\n    @staticmethod\n    def success(data: Optional[Dict[str, Any]] = None, message: Optional[str] = None) -> Dict[str, Any]:\n        \"\"\"Standard success response\"\"\"\n        response = {\"success\": True}\n        if data:\n            response[\"data\"] = data\n        if message:",
+        "detail": "core.utils.common",
+        "documentation": {}
+    },
+    {
+        "label": "send_email",
+        "kind": 2,
+        "importPath": "core.utils.email",
+        "description": "core.utils.email",
+        "peekOfCode": "def send_email(\n    to_email: str,\n    subject: str,\n    body: str,\n    cc: Optional[List[str]] = None,\n    bcc: Optional[List[str]] = None,\n    html_content: Optional[str] = None\n) -> bool:\n    \"\"\"\n    Send email utility",
+        "detail": "core.utils.email",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "peekOfCode": "def verify_password(plain_password: str, hashed_password: str) -> bool:\n    \"\"\"Verify a password against a hash\"\"\"\n    return pwd_context.verify(plain_password, hashed_password)\ndef hash_password(password: str) -> str:\n    \"\"\"Hash a password for storing\"\"\"\n    return pwd_context.hash(password)\ndef create_token(data: Dict[str, Any], expires_delta: Optional[timedelta] = None) -> str:\n    \"\"\"Create a JWT token with an optional expiration time\"\"\"\n    to_encode = data.copy()\n    if expires_delta:",
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "kind": 2,
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "peekOfCode": "def hash_password(password: str) -> str:\n    \"\"\"Hash a password for storing\"\"\"\n    return pwd_context.hash(password)\ndef create_token(data: Dict[str, Any], expires_delta: Optional[timedelta] = None) -> str:\n    \"\"\"Create a JWT token with an optional expiration time\"\"\"\n    to_encode = data.copy()\n    if expires_delta:\n        expire = datetime.utcnow() + expires_delta\n    else:\n        expire = datetime.utcnow() + timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)",
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_token",
+        "kind": 2,
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "peekOfCode": "def create_token(data: Dict[str, Any], expires_delta: Optional[timedelta] = None) -> str:\n    \"\"\"Create a JWT token with an optional expiration time\"\"\"\n    to_encode = data.copy()\n    if expires_delta:\n        expire = datetime.utcnow() + expires_delta\n    else:\n        expire = datetime.utcnow() + timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\": expire})\n    return jwt.encode(to_encode, settings.JWT_SECRET_KEY, algorithm=settings.JWT_ALGORITHM)\ndef create_access_token(data: Dict[str, Any]) -> str:",
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "peekOfCode": "def create_access_token(data: Dict[str, Any]) -> str:\n    \"\"\"Create an access token\"\"\"\n    return create_token(\n        data, \n        timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)\n    )\ndef create_refresh_token(data: Dict[str, Any]) -> str:\n    \"\"\"Create a refresh token\"\"\"\n    return create_token(\n        data, ",
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_refresh_token",
+        "kind": 2,
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "peekOfCode": "def create_refresh_token(data: Dict[str, Any]) -> str:\n    \"\"\"Create a refresh token\"\"\"\n    return create_token(\n        data, \n        timedelta(days=settings.REFRESH_TOKEN_EXPIRE_DAYS)\n    )\ndef decode_token(token: str) -> Dict[str, Any]:\n    \"\"\"Decode a JWT token\"\"\"\n    try:\n        payload = jwt.decode(",
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token",
+        "kind": 2,
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "peekOfCode": "def decode_token(token: str) -> Dict[str, Any]:\n    \"\"\"Decode a JWT token\"\"\"\n    try:\n        payload = jwt.decode(\n            token, \n            settings.SECRET_KEY,  # Changed from JWT_SECRET_KEY\n            algorithms=[settings.ALGORITHM]  # Changed from JWT_ALGORITHM\n        )\n        return payload\n    except jwt.PyJWTError:",
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "check_permissions",
+        "kind": 2,
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "peekOfCode": "def check_permissions(required_permissions: List[str]):\n    \"\"\"Check if user has required permissions\"\"\"\n    async def _check_permissions(\n        current_user: User = Depends(get_current_user)\n    ) -> User:\n        # Admin role has all permissions\n        if current_user.role == \"admin\":\n            return current_user\n        # Check if user has all required permissions\n        user_permissions = current_user.permissions or {}",
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\n# Update the OAuth2 scheme for token authentication\noauth2_scheme = OAuth2PasswordBearer(\n    tokenUrl=f\"{settings.API_PREFIX}/auth/token\",  # Point to the new token endpoint\n    description=\"JWT authentication\",\n    auto_error=True,\n    scheme_name=\"JWT\"\n)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    \"\"\"Verify a password against a hash\"\"\"",
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "core.utils.security",
+        "description": "core.utils.security",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(\n    tokenUrl=f\"{settings.API_PREFIX}/auth/token\",  # Point to the new token endpoint\n    description=\"JWT authentication\",\n    auto_error=True,\n    scheme_name=\"JWT\"\n)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    \"\"\"Verify a password against a hash\"\"\"\n    return pwd_context.verify(plain_password, hashed_password)\ndef hash_password(password: str) -> str:",
+        "detail": "core.utils.security",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "core.config",
+        "description": "core.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    \"\"\"Application settings\"\"\"\n    APP_NAME: str = \"Crime Analysis API\"\n    API_PREFIX: str = \"/api\"\n    DEBUG: bool = True\n    # Database\n    DATABASE_URL: str = Field(default=os.getenv(\"DATABASE_URL\", \"sqlite:///./crime-analysis.db\"))\n    # Authentication\n    SECRET_KEY: str = Field(default=os.getenv(\"SECRET_KEY\", \"supersecretkey\"))\n    ALGORITHM: str = \"HS256\"",
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "core.config",
+        "description": "core.config",
+        "peekOfCode": "settings = Settings()",
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "create_db_and_tables",
+        "kind": 2,
+        "importPath": "core.database",
+        "description": "core.database",
+        "peekOfCode": "def create_db_and_tables():\n    \"\"\"Create database tables if they don't exist\"\"\"\n    try:\n        SQLModel.metadata.create_all(engine)\n        logger.info(\"Database tables created successfully\")\n    except Exception as e:\n        logger.error(f\"Error creating database tables: {e}\")\n        raise\ndef get_session() -> Generator[Session, None, None]:\n    \"\"\"Get database session\"\"\"",
+        "detail": "core.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "kind": 2,
+        "importPath": "core.database",
+        "description": "core.database",
+        "peekOfCode": "def get_session() -> Generator[Session, None, None]:\n    \"\"\"Get database session\"\"\"\n    with Session(engine) as session:\n        try:\n            yield session\n        except Exception as e:\n            session.rollback()\n            logger.error(f\"Database session error: {e}\")\n            raise\n        finally:",
+        "detail": "core.database",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "core.database",
+        "description": "core.database",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# Get database URL from environment\nDATABASE_URL = os.getenv(\"DATABASE_URL\")\nif not DATABASE_URL:\n    logger.warning(\"DATABASE_URL not set in environment. Using sqlite database.\")\n    DATABASE_URL = \"sqlite:///./sql_app.db\"\n# Create the SQLAlchemy engine\nengine = create_engine(\n    DATABASE_URL, \n    echo=False,",
+        "detail": "core.database",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "core.database",
+        "description": "core.database",
+        "peekOfCode": "DATABASE_URL = os.getenv(\"DATABASE_URL\")\nif not DATABASE_URL:\n    logger.warning(\"DATABASE_URL not set in environment. Using sqlite database.\")\n    DATABASE_URL = \"sqlite:///./sql_app.db\"\n# Create the SQLAlchemy engine\nengine = create_engine(\n    DATABASE_URL, \n    echo=False,\n    connect_args={}\n)",
+        "detail": "core.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "core.database",
+        "description": "core.database",
+        "peekOfCode": "engine = create_engine(\n    DATABASE_URL, \n    echo=False,\n    connect_args={}\n)\n# Add connect_args to SQLite connection for foreign key support\nif DATABASE_URL.startswith(\"sqlite\"):\n    engine = create_engine(\n        DATABASE_URL,\n        echo=False,",
+        "detail": "core.database",
+        "documentation": {}
+    },
+    {
+        "label": "AuthMiddleware",
+        "kind": 6,
+        "importPath": "middlewares.auth_middleware",
+        "description": "middlewares.auth_middleware",
+        "peekOfCode": "class AuthMiddleware(BaseHTTPMiddleware):\n    \"\"\"Middleware for JWT authentication\"\"\"\n    async def dispatch(self, request: Request, call_next):\n        # Public paths that don't require authentication\n        public_paths = [\n            r\"^/api/auth/login\",\n            r\"^/api/auth/register\",\n            r\"^/api/auth/refresh\",\n            r\"^/api/auth/reset-password\",\n            r\"^/$\",  # Root path",
+        "detail": "middlewares.auth_middleware",
+        "documentation": {}
+    },
+    {
+        "label": "RateLimiter",
+        "kind": 6,
+        "importPath": "middlewares.rate_limiter",
+        "description": "middlewares.rate_limiter",
+        "peekOfCode": "class RateLimiter(BaseHTTPMiddleware):\n    \"\"\"Rate limiting middleware\"\"\"\n    def __init__(self, app):\n        super().__init__(app)\n        # Dictionary to track requests: {ip_or_user: [(timestamp, requests_count)]}\n        self.requests: Dict[str, list] = {}\n        # Time window for rate limiting (60 seconds)\n        self.window_size = 60\n    async def dispatch(self, request: Request, call_next):\n        # Get client identifier (user_id if authenticated, IP otherwise)",
+        "detail": "middlewares.rate_limiter",
+        "documentation": {}
+    },
+    {
+        "label": "read_csv_data",
+        "kind": 2,
+        "importPath": "scripts.import_csv",
+        "description": "scripts.import_csv",
+        "peekOfCode": "def read_csv_data(file_path):\n    with open(file_path, 'r') as f:\n        reader = csv.DictReader(f)\n        return list(reader)\ndef transform_row_to_incident(row):\n    # Generate a unique ID\n    incident_id = uuid4()  # Use as UUID object, not string\n    # Parse date and time\n    date_str = row['Date']\n    time_of_day = row['Time_of_Day']",
+        "detail": "scripts.import_csv",
+        "documentation": {}
+    },
+    {
+        "label": "transform_row_to_incident",
+        "kind": 2,
+        "importPath": "scripts.import_csv",
+        "description": "scripts.import_csv",
+        "peekOfCode": "def transform_row_to_incident(row):\n    # Generate a unique ID\n    incident_id = uuid4()  # Use as UUID object, not string\n    # Parse date and time\n    date_str = row['Date']\n    time_of_day = row['Time_of_Day']\n    date_obj = datetime.strptime(date_str, '%Y-%m-%d')\n    # Create location object\n    location = {\n        \"address\": f\"{row['Neighborhood']} area\",",
+        "detail": "scripts.import_csv",
+        "documentation": {}
+    },
+    {
+        "label": "import_csv_to_db",
+        "kind": 2,
+        "importPath": "scripts.import_csv",
+        "description": "scripts.import_csv",
+        "peekOfCode": "def import_csv_to_db(file_path):\n    \"\"\"Import CSV data into the database\"\"\"\n    # Read CSV data\n    rows = read_csv_data(file_path)\n    # Transform data into incidents\n    incidents = []\n    for row in rows:\n        try:\n            incident_data = transform_row_to_incident(row)\n            # Create Incident object",
+        "detail": "scripts.import_csv",
+        "documentation": {}
+    },
+    {
+        "label": "project_root",
+        "kind": 5,
+        "importPath": "scripts.import_csv",
+        "description": "scripts.import_csv",
+        "peekOfCode": "project_root = Path(__file__).parent.parent\nsys.path.append(str(project_root))\nfrom sqlmodel import Session, SQLModel, create_engine\nfrom uuid import UUID, uuid4\nfrom apps.incidents.models import Incident\nfrom core.utils.common import ensure_uuid\nfrom dotenv import load_dotenv\nload_dotenv()\n# Database setup\nDATABASE_URL = os.environ.get(\"DATABASE_URL\", \"sqlite:///./crime_analysis.db\")",
+        "detail": "scripts.import_csv",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "scripts.import_csv",
+        "description": "scripts.import_csv",
+        "peekOfCode": "DATABASE_URL = os.environ.get(\"DATABASE_URL\", \"sqlite:///./crime_analysis.db\")\nengine = create_engine(DATABASE_URL)\nSQLModel.metadata.create_all(engine)\ndef read_csv_data(file_path):\n    with open(file_path, 'r') as f:\n        reader = csv.DictReader(f)\n        return list(reader)\ndef transform_row_to_incident(row):\n    # Generate a unique ID\n    incident_id = uuid4()  # Use as UUID object, not string",
+        "detail": "scripts.import_csv",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "scripts.import_csv",
+        "description": "scripts.import_csv",
+        "peekOfCode": "engine = create_engine(DATABASE_URL)\nSQLModel.metadata.create_all(engine)\ndef read_csv_data(file_path):\n    with open(file_path, 'r') as f:\n        reader = csv.DictReader(f)\n        return list(reader)\ndef transform_row_to_incident(row):\n    # Generate a unique ID\n    incident_id = uuid4()  # Use as UUID object, not string\n    # Parse date and time",
+        "detail": "scripts.import_csv",
+        "documentation": {}
+    },
+    {
+        "label": "advanced_query_interface",
+        "kind": 2,
+        "importPath": "advanced_query",
+        "description": "advanced_query",
+        "peekOfCode": "def advanced_query_interface(df, collections, gemini_model=None):\n    \"\"\"\n    Advanced query interface with specialized crime analysis capabilities\n    \"\"\"\n    print(\"\\n\" + \"=\"*50)\n    print(\"ADVANCED CRIME ANALYSIS INTERFACE\")\n    print(\"=\"*50)\n    # Initialize Gemini model if not provided\n    if gemini_model is None:\n        gemini_model = setup_gemini(api_key=os.environ.get(\"GEMINI_API_KEY\"))",
+        "detail": "advanced_query",
+        "documentation": {}
+    },
+    {
+        "label": "crime_hotspot_analysis",
+        "kind": 2,
+        "importPath": "advanced_query",
+        "description": "advanced_query",
+        "peekOfCode": "def crime_hotspot_analysis(df, collections, gemini_model=None):\n    \"\"\"\n    Identify and analyze crime hotspots\n    \"\"\"\n    print(\"\\n\" + \"=\"*30)\n    print(\"CRIME HOTSPOT ANALYSIS\")\n    print(\"=\"*30)\n    # Get neighborhood filter if desired\n    print(\"\\nNeighborhoods in dataset:\")\n    neighborhoods = sorted(df['Neighborhood'].unique())",
+        "detail": "advanced_query",
+        "documentation": {}
+    },
+    {
+        "label": "temporal_pattern_analysis",
+        "kind": 2,
+        "importPath": "advanced_query",
+        "description": "advanced_query",
+        "peekOfCode": "def temporal_pattern_analysis(df, collections, gemini_model=None):\n    \"\"\"\n    Analyze temporal patterns in crime data\n    \"\"\"\n    print(\"\\n\" + \"=\"*30)\n    print(\"TEMPORAL PATTERN ANALYSIS\")\n    print(\"=\"*30)\n    print(\"\\nSelect time dimension to analyze:\")\n    print(\"1. Month\")\n    print(\"2. Day of Week\")",
+        "detail": "advanced_query",
+        "documentation": {}
+    },
+    {
+        "label": "environmental_factor_analysis",
+        "kind": 2,
+        "importPath": "advanced_query",
+        "description": "advanced_query",
+        "peekOfCode": "def environmental_factor_analysis(df, collections, gemini_model=None):\n    \"\"\"\n    Analyze how environmental factors affect crime patterns\n    \"\"\"\n    print(\"\\n\" + \"=\"*30)\n    print(\"ENVIRONMENTAL FACTOR ANALYSIS\")\n    print(\"=\"*30)\n    print(\"\\nSelect environmental factor to analyze:\")\n    print(\"1. Weather conditions\")\n    print(\"2. Temperature ranges\")",
+        "detail": "advanced_query",
+        "documentation": {}
+    },
+    {
+        "label": "socioeconomic_analysis",
+        "kind": 2,
+        "importPath": "advanced_query",
+        "description": "advanced_query",
+        "peekOfCode": "def socioeconomic_analysis(df, collections, gemini_model=None):\n    \"\"\"\n    Analyze socioeconomic factors' impact on crime patterns\n    \"\"\"\n    print(\"\\n\" + \"=\"*30)\n    print(\"SOCIOECONOMIC FACTOR ANALYSIS\")\n    print(\"=\"*30)\n    print(\"\\nSelect socioeconomic factor to analyze:\")\n    print(\"1. Population Density\")\n    print(\"2. Average Income\")",
+        "detail": "advanced_query",
+        "documentation": {}
+    },
+    {
+        "label": "multi_factor_query",
+        "kind": 2,
+        "importPath": "advanced_query",
+        "description": "advanced_query",
+        "peekOfCode": "def multi_factor_query(df, collections, gemini_model=None):\n    \"\"\"\n    Perform multi-factor crime analysis\n    \"\"\"\n    print(\"\\n\" + \"=\"*30)\n    print(\"MULTI-FACTOR CRIME QUERY\")\n    print(\"=\"*30)\n    print(\"\\nSelect factors to analyze:\")\n    print(\"1. Crime Hotspots + Temporal Patterns\")\n    print(\"2. Environmental + Socioeconomic Factors\")",
+        "detail": "advanced_query",
+        "documentation": {}
+    },
+    {
+        "label": "SearchRequest",
+        "kind": 6,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "class SearchRequest(BaseModel):\n    query: str\n    k: int = 5\nclass SearchResult(BaseModel):\n    content: str\n    metadata: Dict[str, Any]\nclass SearchResponse(BaseModel):\n    results: List[SearchResult]\n@app.post(\"/api/search-vectors\", response_model=SearchResponse)\nasync def search_vectors(request: SearchRequest = Body(...)):",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "SearchResult",
+        "kind": 6,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "class SearchResult(BaseModel):\n    content: str\n    metadata: Dict[str, Any]\nclass SearchResponse(BaseModel):\n    results: List[SearchResult]\n@app.post(\"/api/search-vectors\", response_model=SearchResponse)\nasync def search_vectors(request: SearchRequest = Body(...)):\n    # Get the default vector store\n    vs = get_vector_store()\n    # Search for similar documents",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "SearchResponse",
+        "kind": 6,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "class SearchResponse(BaseModel):\n    results: List[SearchResult]\n@app.post(\"/api/search-vectors\", response_model=SearchResponse)\nasync def search_vectors(request: SearchRequest = Body(...)):\n    # Get the default vector store\n    vs = get_vector_store()\n    # Search for similar documents\n    documents = vs.similarity_search(request.query, k=request.k)\n    # Format results for response\n    results = [",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "RagResponse",
+        "kind": 6,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "class RagResponse(BaseModel):\n    result: str\n    error: str = None\n@app.post(\"/api/rag\", response_model=RagResponse)\nasync def rag(request: SearchRequest = Body(...)):\n    \"\"\"Run RAG (Retrieval Augmented Generation) using the user's query\"\"\"\n    try:\n        # Get vector store and create retriever\n        vs = get_vector_store()\n        retriever = vs.as_retriever(search_kwargs={\"k\": request.k})",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# Load environment variables\nload_dotenv()\n# Initialize FastAPI app\napp = FastAPI(\n    title=\"Crime Analysis API\",\n    description=\"API for analyzing crime data using Gemini model\",\n    version=\"1.0.0\",\n    openapi_url=\"/api/openapi.json\",\n    docs_url=\"/api/docs\",",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app = FastAPI(\n    title=\"Crime Analysis API\",\n    description=\"API for analyzing crime data using Gemini model\",\n    version=\"1.0.0\",\n    openapi_url=\"/api/openapi.json\",\n    docs_url=\"/api/docs\",\n    redoc_url=\"/api/redoc\",\n    swagger_ui_oauth2_redirect_url=\"/api/docs/oauth2-redirect\",\n    swagger_ui_init_oauth={\n        \"usePkceWithAuthorizationCodeGrant\": True,",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app.swagger_ui_default_parameters",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app.swagger_ui_default_parameters = {\n    \"persistAuthorization\": True,\n}\n# Add CORS middleware\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=settings.CORS_ORIGINS,\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "setup_gemini",
+        "kind": 2,
+        "importPath": "gemini_integration",
+        "description": "gemini_integration",
+        "peekOfCode": "def setup_gemini(api_key=None):\n    \"\"\"\n    Configure Gemini API with the provided key or from environment variable\n    \"\"\"\n    if api_key is None:\n        api_key = os.environ.get(\"GEMINI_API_KEY\")\n        if api_key is None:\n            raise ValueError(\"No Gemini API key provided. Set GEMINI_API_KEY environment variable or pass api_key parameter.\")\n    # Configure the Gemini API\n    genai.configure(api_key=api_key)",
+        "detail": "gemini_integration",
+        "documentation": {}
+    },
+    {
+        "label": "generate_gemini_embeddings",
+        "kind": 2,
+        "importPath": "gemini_integration",
+        "description": "gemini_integration",
+        "peekOfCode": "def generate_gemini_embeddings(texts, model_name='all-MiniLM-L6-v2'):\n    \"\"\"\n    Generate embeddings using Sentence Transformers\n    \"\"\"\n    model = SentenceTransformer(model_name)\n    embeddings = model.encode(texts)\n    return embeddings\n# Function to generate responses using Gemini\ndef generate_gemini_response(query: str, context_records: Any, model: Any) -> str:\n    \"\"\"",
+        "detail": "gemini_integration",
+        "documentation": {}
+    },
+    {
+        "label": "generate_gemini_response",
+        "kind": 2,
+        "importPath": "gemini_integration",
+        "description": "gemini_integration",
+        "peekOfCode": "def generate_gemini_response(query: str, context_records: Any, model: Any) -> str:\n    \"\"\"\n    Generate responses using Gemini based on the query and retrieved context\n    Args:\n        query: User query string\n        context_records: Pandas DataFrame containing relevant crime records\n        model: Initialized Gemini model\n    Returns:\n        str: Formatted response from Gemini\n    \"\"\"",
+        "detail": "gemini_integration",
+        "documentation": {}
+    },
+    {
+        "label": "parse_gemini_response",
+        "kind": 2,
+        "importPath": "gemini_integration",
+        "description": "gemini_integration",
+        "peekOfCode": "def parse_gemini_response(response: str) -> Dict[str, Any]:\n    \"\"\"\n    Parse the formatted response from Gemini into structured data\n    Args:\n        response: Formatted response string from Gemini\n    Returns:\n        dict: Structured data with crime analysis\n    \"\"\"\n    try:\n        lines = [line.strip() for line in response.split('\\n') if line.strip()]",
+        "detail": "gemini_integration",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_preprocess_data",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def load_and_preprocess_data(file_path='data.csv'):\n    df = pd.read_csv(file_path)\n    # Convert date to datetime\n    df['Date'] = pd.to_datetime(df['Date'])\n    # Extract additional temporal features\n    df['Year'] = df['Date'].dt.year\n    df['Month_Num'] = df['Date'].dt.month\n    df['Day'] = df['Date'].dt.day\n    df['Day_of_Week_Num'] = df['Date'].dt.dayofweek\n    df['Is_Weekend'] = df['Day_of_Week_Num'].apply(lambda x: 1 if x >= 5 else 0)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "engineer_features",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def engineer_features(df):\n    \"\"\"\n    Add contextual descriptions to the dataframe\n    \"\"\"\n    # Create a copy of the dataframe to avoid modifying the original\n    df_engineered = df.copy()\n    # Create rich textual descriptions for each crime entry\n    df_engineered['contextual_description'] = df.apply(\n        lambda row: (\n            f\"Crime: {row['Crime_Type']} in {row['Neighborhood']} on {row['Date'].strftime('%A, %B %d, %Y')} \"",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "generate_embeddings",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def generate_embeddings(df):\n    \"\"\"\n    Generate embeddings for the various context fields\n    \"\"\"\n    # Verify the required columns exist\n    required_columns = ['contextual_description', 'geo_context', 'temporal_context', \n                      'environmental_context', 'socioeconomic_context']\n    for col in required_columns:\n        if col not in df.columns:\n            raise KeyError(f\"Required column '{col}' not found in dataframe. Columns available: {df.columns.tolist()}\")",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "setup_chroma_db",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def setup_chroma_db(df, embeddings):\n    \"\"\"\n    Set up ChromaDB for vector storage and retrieval using the updated API\n    \"\"\"\n    # Initialize ChromaDB client with the updated API\n    client = chromadb.PersistentClient(path=\"chroma_db\")\n    # Create collections for different contexts\n    collections = {}\n    for context_type in ['full_context', 'geo_context', 'temporal_context', \n                         'environmental_context', 'socioeconomic_context']:",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "query_crime_data",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def query_crime_data(query_text, df, collections, context_type='full_context', n_results=5):\n    \"\"\"\n    Query the crime data based on text input\n    \"\"\"\n    # Generate embedding for the query\n    query_embedding = generate_gemini_embeddings([query_text])[0]\n    # Query the appropriate collection\n    collection = collections[context_type]\n    results = collection.query(\n        query_embeddings=[query_embedding.tolist()],",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "multi_context_query",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def multi_context_query(query_text, df, collections, weights=None, n_results=5):\n    \"\"\"\n    Query across multiple context types with optional weighting\n    \"\"\"\n    if weights is None:\n        # Default equal weighting\n        weights = {\n            'full_context': 0.3,\n            'geo_context': 0.2, \n            'temporal_context': 0.2,",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "generate_contextual_response",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def generate_contextual_response(query, context_records, model=None):\n    \"\"\"\n    Generate responses based on the query and retrieved context using Gemini\n    \"\"\"\n    if model is None:\n        # Set up Gemini if not provided\n        model = setup_gemini()\n    return generate_gemini_response(query, context_records, model)\n# Create a simple interface to interact with the RAG system\ndef crime_rag_interface(df, collections):",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "crime_rag_interface",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def crime_rag_interface(df, collections):\n    \"\"\"\n    Interactive interface for querying crime data\n    \"\"\"\n    print(\"=\" * 50)\n    print(\"CRIME DATA RAG SYSTEM\")\n    print(\"=\" * 50)\n    print(\"Enter your query about crime data (or 'exit' to quit):\")\n    # Set up Gemini model\n    gemini_model = setup_gemini()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def main():\n    \"\"\"\n    Main function to run the Crime RAG system\n    \"\"\"\n    global global_df\n    # Load and preprocess data\n    print(\"Loading and preprocessing data...\")\n    df = load_and_preprocess_data()\n    print(f\"Loaded {len(df)} crime records\")\n    # Engineer features",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "global_df",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "global_df = None\n# Load and preprocess data\ndef load_and_preprocess_data(file_path='data.csv'):\n    df = pd.read_csv(file_path)\n    # Convert date to datetime\n    df['Date'] = pd.to_datetime(df['Date'])\n    # Extract additional temporal features\n    df['Year'] = df['Date'].dt.year\n    df['Month_Num'] = df['Date'].dt.month\n    df['Day'] = df['Date'].dt.day",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "run",
+        "description": "run",
+        "peekOfCode": "def main():\n    print(\"=\" * 70)\n    print(\"CRIME DATA ANALYSIS AND RAG SYSTEM\")\n    print(\"=\" * 70)\n    # Check for Gemini API key\n    api_key = os.environ.get(\"GEMINI_API_KEY\")\n    if api_key is None:\n        api_key = input(\"Please enter your Gemini API key: \")\n        os.environ[\"GEMINI_API_KEY\"] = api_key\n    # Load and preprocess data",
+        "detail": "run",
+        "documentation": {}
+    },
+    {
+        "label": "identify_crime_hotspots",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def identify_crime_hotspots(df, eps=0.005, min_samples=3):\n    \"\"\"\n    Identify crime hotspots using DBSCAN clustering on geographical coordinates\n    Parameters:\n    - eps: The maximum distance between two samples to be considered in the same neighborhood\n    - min_samples: The number of samples in a neighborhood for a point to be considered a core point\n    Returns:\n    - DataFrame with cluster labels and centroid information\n    \"\"\"\n    # Extract coordinates",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "find_temporal_patterns",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def find_temporal_patterns(df):\n    \"\"\"\n    Identify temporal patterns in crime data\n    Returns:\n    - Dictionary with various temporal pattern analyses\n    \"\"\"\n    patterns = {}\n    # Analyze by month\n    monthly_counts = df.groupby(['Month', 'Crime_Type']).size().reset_index(name='count')\n    patterns['monthly'] = monthly_counts.pivot(index='Month', columns='Crime_Type', values='count').fillna(0)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_environmental_factors",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def analyze_environmental_factors(df):\n    \"\"\"\n    Analyze how environmental factors relate to crime\n    Returns:\n    - Dictionary with environmental factor analyses\n    \"\"\"\n    analyses = {}\n    # Weather analysis\n    weather_crime = pd.crosstab(df['Weather'], df['Crime_Type'])\n    analyses['weather_crime'] = weather_crime",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_socioeconomic_factors",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def analyze_socioeconomic_factors(df):\n    \"\"\"\n    Analyze how socioeconomic factors relate to crime\n    Returns:\n    - Dictionary with socioeconomic factor analyses\n    \"\"\"\n    analyses = {}\n    # Create income bins\n    df['Income_Bin'] = pd.qcut(df['Average_Income'], 4, \n                               labels=['Low Income', 'Lower-Middle Income', ",
+        "detail": "utils",
+        "documentation": {}
+    }
+]
